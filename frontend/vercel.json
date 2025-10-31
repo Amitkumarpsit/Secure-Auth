@@ -5,8 +5,8 @@
   "installCommand": "npm install",
   "framework": "sveltekit",
   "env": {
-    "VITE_SUPABASE_URL": "@vite_supabase_url",
-    "VITE_SUPABASE_ANON_KEY": "@vite_supabase_anon_key",
-    "VITE_BACKEND_URL": "@vite_backend_url"
+    "VITE_SUPABASE_URL": "https://ofjnkkcxugdtddyevjoi.supabase.co",
+    "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9mam5ra2N4dWdkdGRkeWV2am9pIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjExMzcxOTksImV4cCI6MjA3NjcxMzE5OX0.zPqT5wY8vHxO7B0KZ4g8vDqN3fJxN5uZ8wN7xQ9qZ8I",
+    "VITE_BACKEND_URL": "http://localhost:3001"
   }
 }

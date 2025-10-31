@@ -11,7 +11,7 @@ async function bootstrap() {
   
   // Enable CORS
   app.enableCors({  
-    origin: ['http://localhost:5173', 'http://localhost:4173', 'http://localhost:3000', 'https://your-vercel-domain.vercel.app'],
+    origin: ['http://localhost:5173', 'http://localhost:4173', 'http://localhost:3000', 'https://frontend-n5d2xqtia-amitkumarpsits-projects.vercel.app', 'https://frontend-cmhjx35r7-amitkumarpsits-projects.vercel.app'],
     credentials: true,
   });
   
